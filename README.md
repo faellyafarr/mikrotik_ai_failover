@@ -1,0 +1,2 @@
+# mikrotik_ai_failover
+FAILOVER SILENT DEGRADED MIKROTIK WITH AI/ML
