@@ -1,3 +1,14 @@
+"""
+Attention! This file is intended only for those capable 
+- of building machine learning models.
+
+
+This file is for creating an AI failover machine learning model
+that shares the same feature inference. If you do not understand this, 
+simply ignore this file.
+"""
+
+
 import time
 import pandas as pd
 import joblib
